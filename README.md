@@ -18,5 +18,7 @@ TASK-4 To design the front-end for an E-learning platform with course listing, p
 
 output
 
+![Image](https://github.com/user-attachments/assets/434b9e8c-bbfe-4651-b05d-dfb3ffa6416e)
+
 
 
